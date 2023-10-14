@@ -33,7 +33,7 @@ We have provided you with a **create-react-app** template project, however, plea
 technologies / frameworks / libraries that you are most comfortable with. We just ask that **this be implemented in
 React**, and not in another framework, like Vue/Angular/Ember/etc.
 
-**Note:** Please add tests! The project will be considered incomplete if you do not have any tests written.
+**Note:** Please add tests! The project will be considered incomplete if you do not have any tests written..
 
 ## What are we looking for?
 
@@ -59,6 +59,7 @@ you made, and how you would extend this if you had more time. Please include thi
 
 Please feel free to reach out to the recruiter if you have any questions or if anything is unclear. We're excited to see
 what you come up with! Good luck!
+
 ## License
 
 At CodeScreen, we strongly value the integrity and privacy of our assessments. As a result, this repository is under exclusive copyright, which means you **do not** have permission to share your solution to this test publicly (i.e., inside a public GitHub/GitLab repo, on Reddit, etc.). <br>
