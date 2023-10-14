@@ -1,0 +1,29 @@
+#userlist-body {
+  margin-top: 10%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+#user-div {
+  /* width: 800px; */
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  /* border: 2px;
+  border-style: solid;
+  border-radius: 20px;
+  background-color: antiquewhite; */
+}
+#user-div a {
+  color: blue;
+  font-size: 30px;
+  margin-left: 20px;
+  text-decoration: none;
+}
+#user-avatar {
+  display: block;
+  width: 80px;
+  height: auto;
+  border-radius: 40px;
+}
